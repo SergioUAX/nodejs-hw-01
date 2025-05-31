@@ -15,5 +15,4 @@ export const addOneContact = async () => {
   }
 };
 
-// Немедленно вызываем функцию
 addOneContact();
